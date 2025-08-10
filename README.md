@@ -20,7 +20,7 @@ To apply skills learned throughout the semester to:
 
 ## Project Structure
 ```plaintext
-BAN545-Term-Project/
+BAN-545-Term-Project/
 │
 ├── data/                     # Dataset
 ├── access_database/           # .accdb MS Access file
