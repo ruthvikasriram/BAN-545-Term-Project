@@ -1,4 +1,4 @@
-# BAN545 Term Project - Dimensional Modeling & Data Warehouse in MS Access
+# Dimensional Modeling & Data Warehouse in MS Access
 
 ## Project Overview
 This project was completed as the term project for **BAN545 (Business Analytics)** at Northern Arizona University.  
@@ -20,7 +20,7 @@ To apply skills learned throughout the semester to:
 
 ## Project Structure
 ```plaintext
-BAN-545-Term-Project/
+DATA PROJECT-1/
 │
 ├── data/                     # Dataset
 ├── access_database/           # .accdb MS Access file
