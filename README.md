@@ -24,8 +24,6 @@ BAN545-Term-Project/
 │
 ├── data/                     # Dataset
 ├── access_database/           # .accdb MS Access file
-├── queries_screenshots/       # Screenshots of Access queries & outputs
-├── visuals/                   # Dimensional model diagrams
-├── Lessons_Learned_Report.pdf # Final report
+├── Documentation              # Final report
 ├── README.md                  # Project documentation
 
