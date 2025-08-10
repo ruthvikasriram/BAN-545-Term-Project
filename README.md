@@ -24,6 +24,7 @@ BAN-545-Term-Project/
 │
 ├── data/                     # Dataset
 ├── access_database/           # .accdb MS Access file
-├── Documentation              # Final report
+├── Documentation part-1       # Final report
+├── Documentation part-2       # Final report
 ├── README.md                  # Project documentation
 
